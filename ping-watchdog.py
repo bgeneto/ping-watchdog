@@ -5,7 +5,7 @@
 #
 # Purpose: reboot the machine if pinging host failed
 #
-# Copyright (c) 2021 by bgeneto <b g e n e t o @ g m a i l . c o m>
+# Copyright (c) 2021 by bgeneto <b g e n e t o at g m a i l  dot c o m>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
